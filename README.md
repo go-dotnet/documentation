@@ -4,21 +4,6 @@
 
 The **go-dotnet** organization is dedicated to creating a Go framework inspired by the philosophy and structure of ASP.NET. Our aim is to provide Go developers with an intuitive, efficient, and powerful set of tools that merge the best practices of both ecosystems.
 
-## Contributing
-
-We warmly welcome contributors! Whether you're fixing bugs, implementing features, or improving documentation, your efforts and expertise are appreciated. Please read our [CONTRIBUTING.md](LINK_TO_CONTRIBUTING_GUIDE) for guidelines on how to contribute.
-
-## Community
-
-Join our [Discord](LINK_TO_DISCORD)/[Slack](LINK_TO_SLACK) community to discuss features, seek help, or collaborate with fellow developers!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-Replace placeholders like `URL_TO_LOGO_IMAGE`, `LINK_TO_DOCUMENTATION`, and others with actual links and details as you set up. This template should give you a good starting point to introduce your organization and its projects.
-
 ## **Project Goals**
 
 1. **Innovation**: Introduce a Go framework that marries the design and principles of ASP.NET, fostering a unique platform that benefits from both worlds.
@@ -44,3 +29,15 @@ Replace placeholders like `URL_TO_LOGO_IMAGE`, `LINK_TO_DOCUMENTATION`, and othe
 4. **Support for Non-Go Languages**: The primary focus is the Go ecosystem. We won’t be diverting resources to provide bridges for other languages.
 
 5. **Competing with .NET**: While the project draws inspiration from .NET, it's not aiming to compete with it head-to-head but rather to bring some of its best features and practices to the Go community.
+
+## Contributing
+
+We warmly welcome contributors! Whether you're fixing bugs, implementing features, or improving documentation, your efforts and expertise are appreciated. Please read our [CONTRIBUTING.md](LINK_TO_CONTRIBUTING_GUIDE) for guidelines on how to contribute.
+
+## Community
+
+Join our [Discord](LINK_TO_DISCORD)/[Slack](LINK_TO_SLACK) community to discuss features, seek help, or collaborate with fellow developers!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
