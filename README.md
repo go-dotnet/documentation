@@ -14,7 +14,7 @@ The **go-dotnet** organization is dedicated to creating a Go framework inspired 
   
 4. **Mimic .NET's Abstractions**: Endeavor to emulate the quality, thoughtfulness, and depth of Microsoft's abstraction packages, ensuring a familiar environment for .NET developers transitioning to Go.
   
-5. **Extensibility**: Design with a plugin architecture in mind, ensuring that developers can easily extend the framework, fostering a rich ecosystem around **Go-DotNet**.
+5. **Extensibility**: Design with a plugin architecture in mind, ensuring that developers can easily extend the framework, fostering a rich ecosystem around **go.NET**.
 
 6. **Developer Experience**: Focus on creating a developer-centric framework that is intuitive, well-documented, and offers tooling that accelerates the development process.
 
